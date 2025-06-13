@@ -114,5 +114,4 @@ df.head()
 """## Salvar os dados em CSV"""
 
 df_investidores = gerar_base_investidores(20000)
-df_investidores.to_csv('investidores_brasileiros_fake.csv', index=False)
-
+df_investidores.to_csv('investidores.csv', index=False)
