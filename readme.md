@@ -33,7 +33,7 @@ Este projeto tem como propósito:
 ├── 📄 InvestFake_synthetic_data.ipynb  # Notebook principal com geração e modelagem dos dados
 ├── 📄 README.md                        # Documentação do projeto
 ├── 📁 data/
-│ ├── base_investfake.csv               # Base inicial gerada com Faker
+│ ├── investidores.csv                  # Base inicial gerada com Faker
 ```
 
 ---
@@ -92,12 +92,15 @@ Este projeto tem como propósito:
 ### 🛡️ Licença
 Este projeto está licenciado sob a MIT License — sinta-se livre para usar, melhorar e contribuir.
 
----
-
-## 📩 Contato
-Atividade realizada por **Fábio Nogueira**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
-[![GitHub](https://img.shields.io/badge/GitHub-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://github.com/faanogueira)
-[![Gmail](https://img.shields.io/badge/Gmail-1B1C1E?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:faanogueira@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1B1C1E?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=5571983937557)
+<!-- Início da seção "Contato" -->
+<h2>🌐 Contate-me: </h2>
+<div>
+  <p>Developed by <b>Fábio Nogueira</b></p>
+</div>
+<p>
+<a href="https://www.linkedin.com/in/faanogueira/" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="80"> </a>
+<a href="https://github.com/faanogueira" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" target="_blank" width="80"> </a>
+<a href="https://api.whatsapp.com/send?phone=5571983937557" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" target="_blank" width="80"> </a>
+<a href="mailto:faanogueira@gmail.com"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank" width="80"> </a> 
+</p>
+<!-- Fim da seção "Contato" -->
