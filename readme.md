@@ -31,6 +31,7 @@ Este projeto tem como propósito:
 ```
 📦 InvestFake
 ├── 📄 InvestFake_synthetic_data.ipynb  # Notebook principal com geração e modelagem dos dados
+├── 📄 InvestFake_Relatório.ipynb       # Notebook com o relatório final dos dados
 ├── 📄 README.md                        # Documentação do projeto
 ├── 📁 data/
 │ ├── investidores.csv                  # Base inicial gerada com Faker
